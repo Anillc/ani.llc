@@ -61,10 +61,10 @@
     <v-card>
       <v-card-title>Links</v-card-title>
       <v-card-text>
-        <p><a href="http://anillc.cn">我的 blog</a></p>
-        <p><a href="http://github.com/Anillc">我的 Github</a></p>
-        <p><a href="http://kagari.org">Kagari</a></p>
-        <p><a href="http://kano.cat">Kanocat</a></p>
+        <a href="http://anillc.cn">我的 blog</a> | 
+        <a href="http://github.com/Anillc">我的 Github</a> | 
+        <a href="http://kagari.org">Kagari</a> | 
+        <a href="http://kano.cat">Kanocat</a>
       </v-card-text>
     </v-card>
     <br />
