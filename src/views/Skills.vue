@@ -70,6 +70,7 @@
               <li>吉他 (会一点点)</li>
               <li>乐理 (会一点点)</li>
               <li>fl studio (会一点点)</li>
+              <li>五笔输入法  (刚开始学)</li>
               <li>etc.</li>
           </ul>
       </v-card-text>
