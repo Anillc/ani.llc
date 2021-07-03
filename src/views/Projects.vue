@@ -102,3 +102,8 @@
     </v-card>
   </v-container>
 </template>
+
+<script lang="coffee">
+export default
+  name: 'projects'
+</script>
