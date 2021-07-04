@@ -31,8 +31,6 @@
           <li>
             其他语言
             <ul>
-              <li>XML</li>
-              <li>JSON</li>
               <li>HTML</li>
               <li>CSS (&amp;less)</li>
               <li>SQL (CURD)</li>
