@@ -21,6 +21,7 @@
               <li>PHP</li>
               <li>C</li>
               <li>C#</li>
+              <li>Dart</li>
               <li>lua (不熟练)</li>
               <li>Scala (不熟练)</li>
               <li>Haskell (不熟练)</li>
@@ -54,6 +55,7 @@
           <li>React</li>
           <li>Mithril (不熟练)</li>
           <li>Koishi.js</li>
+          <li>Flutter</li>
           <li>etc.</li>
         </ul>
       </v-card-text>
