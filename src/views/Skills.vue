@@ -21,11 +21,12 @@
               <li>PHP</li>
               <li>C</li>
               <li>C#</li>
+              <li>F#</li>
               <li>Dart</li>
-              <li>lua (不熟练)</li>
-              <li>Scala (不熟练)</li>
-              <li>Haskell (不熟练)</li>
-              <li>nasm (不熟练)</li>
+              <li>lua</li>
+              <li>Scala</li>
+              <li>Haskell</li>
+              <li>nasm</li>
               <li>etc.</li>
             </ul>
           </li>
@@ -34,7 +35,7 @@
             <ul>
               <li>HTML</li>
               <li>CSS (&amp;less)</li>
-              <li>SQL (CURD)</li>
+              <li>SQL</li>
               <li>Markdown</li>
               <li>bird</li>
               <li>etc.</li>
@@ -53,7 +54,6 @@
           <li>Hibernate</li>
           <li>Vue</li>
           <li>React</li>
-          <li>Mithril (不熟练)</li>
           <li>Koishi.js</li>
           <li>Flutter</li>
           <li>etc.</li>
