@@ -22,6 +22,9 @@ export default
   name: 'app'
   data: ->
     routes: this.$router.options.routes
+  watch: {
+    '$route': -> document.querySelector('html').scroll 0, 0
+  }
 </script>
 
 <style scoped>
