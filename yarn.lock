@@ -3783,7 +3783,7 @@ pako@~1.0.5:
 
 parcel-bundler@^1.12.5:
   version "1.12.5"
-  resolved "https://registry.npm.taobao.org/parcel-bundler/download/parcel-bundler-1.12.5.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fparcel-bundler%2Fdownload%2Fparcel-bundler-1.12.5.tgz#91f7de1c1fbfe5111616d3211c749c85c4d8acf0"
+  resolved "https://registry.nlark.com/parcel-bundler/download/parcel-bundler-1.12.5.tgz#91f7de1c1fbfe5111616d3211c749c85c4d8acf0"
   integrity sha1-kffeHB+/5REWFtMhHHSchcTYrPA=
   dependencies:
     "@babel/code-frame" "^7.0.0"

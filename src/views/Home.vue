@@ -53,8 +53,9 @@
     <v-card>
       <v-card-title>Networking</v-card-title>
       <v-card-text>
-        请参考<a href="https://anillc.cn/networking">此页面</a><br />
-        Please visit <a href="https://anillc.cn/networking">this page</a>
+        
+        请参考<router-link to="/networking">此页面</router-link><br />
+        Please visit <router-link to="/networking">this page</router-link>
       </v-card-text>
     </v-card>
     <br />

@@ -6,6 +6,7 @@
   "author": "anillc",
   "license": "MIT",
   "private": true,
+  "main": "src/index.html",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html"

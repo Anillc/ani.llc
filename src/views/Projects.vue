@@ -62,19 +62,7 @@
       </v-card-text>
     </v-card>
     <br />
-    <v-card>
-      <v-card-title> Lethe </v-card-title>
-      <v-card-text>
-        <p>一个多服务器自动化部署工具</p>
-        <v-progress-linear
-          value="1"
-          buffer-value="0"
-          striped
-          stream
-        ></v-progress-linear>
-      </v-card-text>
-    </v-card>
-    <br />
+    <v-divider></v-divider>
     <br />
     <v-card>
       <v-card-title>参与项目 <v-icon>mdi-star</v-icon></v-card-title>
