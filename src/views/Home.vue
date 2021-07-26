@@ -65,7 +65,8 @@
         <a href="http://anillc.cn">我的 blog</a> | 
         <a href="http://github.com/Anillc">我的 Github</a> | 
         <a href="http://kagari.org">Kagari</a> | 
-        <a href="http://kano.cat">Kanocat</a>
+        <a href="http://kano.cat">Kanocat</a> | 
+        <a href="https://anillc.cn/more">友链</a>
       </v-card-text>
     </v-card>
     <br />
