@@ -31,6 +31,10 @@
             </ul>
           </li>
           <li>
+            会写 Hello World 的语言
+            <ul>这里就不一一列举了（</ul>
+          </li>
+          <li>
             其他语言
             <ul>
               <li>HTML</li>
