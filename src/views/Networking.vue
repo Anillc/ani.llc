@@ -105,6 +105,36 @@
         </ul>
       </v-card-text>
     </v-card>
+    <br />
+    <v-card>
+      <v-card-title>Wuhan, CN</v-card-title>
+      <v-card-text>
+        <ul>
+          <li>
+            Wireguard Public Key:
+            <code>xUjqZwuOHxg4FOzU/W6y4/sNpRC/ux7duj5PBscIKTQ=</code>
+          </li>
+          <li>DN42 IPv4: <code>172.22.167.103</code></li>
+          <li>DN42 IPv6: <code>fdc9:83c1:d0ce::7</code></li>
+          <li>Link-Local Address: <code>fe80::2526</code></li>
+        </ul>
+      </v-card-text>
+    </v-card>
+    <br />
+    <v-card>
+      <v-card-title>Hangzhou, CN</v-card-title>
+      <v-card-text>
+        <ul>
+          <li>
+            Wireguard Public Key:
+            <code>pTIhV8L+149YD7ew6YdQvMaQpbquyljxOW5qRnUyNmI=</code>
+          </li>
+          <li>DN42 IPv4: <code>172.22.167.104</code></li>
+          <li>DN42 IPv6: <code>fdc9:83c1:d0ce::8</code></li>
+          <li>Link-Local Address: <code>fe80::2526</code></li>
+        </ul>
+      </v-card-text>
+    </v-card>
   </v-container>
 </template>
 
