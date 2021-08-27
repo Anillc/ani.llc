@@ -11,6 +11,7 @@
         <ul>
           <li>高考完啦</li>
           <li>NOC of AS142055 and AS4242422526</li>
+          <li>BG8KYF</li>
           <li>最喜欢的语言是 kotlin 和 coffeescript</li>
           <li>最喜欢的歌手是鹿乃</li>
           <li>平时不怎么玩游戏，偶尔打 mc，最近在研究音游</li>
