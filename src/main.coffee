@@ -16,15 +16,15 @@ router = new VueRouter
   routes: [{
     path: '/'
     component: Home
-    name: '首页'
+    name: 'HOME'
   },{
     path: '/skills'
     component: () -> import('./views/Skills.vue')
-    name: '技能树'
+    name: 'SKILLS'
   },{
     path: '/contact'
     component: () -> import('./views/Contact.vue')
-    name: '联系方式'
+    name: 'CONTACT'
   },{
     path: '/networking'
     component: () -> import('./views/Networking.vue')
@@ -40,7 +40,7 @@ router = new VueRouter
   },{
     path: '/comments'
     component: () -> import('./views/Comments.vue')
-    name: '留言板'
+    name: 'COMMENTS'
   }]
 
 vuetify = new Vuetify
