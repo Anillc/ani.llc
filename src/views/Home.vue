@@ -23,28 +23,28 @@
       <v-card-title>Platforms</v-card-title>
       <v-card-text>
         <img
-          src="https://img.shields.io/badge/Windows-blue?style=flat-square&logo=windows"
+          src="https://img.shields.io/badge/Windows-lightblue?style=flat-square&logo=windows"
           alt="Winfows"
         />
         <img
-          src="https://img.shields.io/badge/%E8%BF%98%E6%B2%A1%E6%89%BE%E5%88%B0%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%20Android%20%E7%B3%BB%E7%BB%9F-blue?style=flat-square&logo=android"
+          src="https://img.shields.io/badge/%E8%BF%98%E6%B2%A1%E6%89%BE%E5%88%B0%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%20Android%20%E7%B3%BB%E7%BB%9F-lightblue?style=flat-square&logo=android"
           alt="Android"
         />
         <img
-          src="https://img.shields.io/badge/%E8%BF%98%E6%B2%A1%E6%89%BE%E5%88%B0%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%20Linux%20%E7%B3%BB%E7%BB%9F-blue?style=flat-square&logo=linux"
+          src="https://img.shields.io/badge/NixOS-lightblue?style=flat-square&logo=nixos"
           alt="Linux"
         />
         <br />
         <img
-          src="https://img.shields.io/badge/Jetbrains%20yyds-blue?style=flat-square&logo=jetbrains"
+          src="https://img.shields.io/badge/Jetbrains%20yyds-lightblue?style=flat-square&logo=jetbrains"
           alt="Jetbrains"
         />
         <img
-          src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code"
+          src="https://img.shields.io/badge/Visual%20Studio%20Code-lightblue?style=flat-square&logo=visual-studio-code"
           alt="Visual Studio Code"
         />
         <img
-          src="https://img.shields.io/badge/Vim-blue?style=flat-square&logo=vim"
+          src="https://img.shields.io/badge/Vim-lightblue?style=flat-square&logo=vim"
           alt="Vim"
         />
         <br />
