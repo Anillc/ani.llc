@@ -29,7 +29,7 @@ export default
 
 <style scoped>
 .app {
-  background-image: url("https://pixiv.cat/80981871-4.jpg");
+  background-image: url("../assets/bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
