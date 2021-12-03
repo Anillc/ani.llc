@@ -16,6 +16,7 @@
             <ul>
               <li>Kotlin</li>
               <li>CoffeeScript</li>
+              <li>nix</li>
               <li>Java</li>
               <li>JavaScript</li>
               <li>PHP</li>
@@ -26,7 +27,6 @@
               <li>lua</li>
               <li>Scala</li>
               <li>Haskell</li>
-              <li>nasm</li>
               <li>etc.</li>
             </ul>
           </li>
@@ -69,12 +69,7 @@
       <v-card-title>Other</v-card-title>
       <v-card-text>
           <ul>
-              <li>计算机网络 (还需深入学习)</li>
-              <li>业余无线电 (刚开始学习)</li>
-              <li>吉他 (会一点点)</li>
-              <!-- <li>乐理 (会一点点)</li> -->
-              <!-- <li>fl studio (会一点点)</li> -->
-              <!-- <li>五笔输入法  (刚开始学)</li> -->
+              <li>指弹吉他 (会一点点)</li>
               <li>etc.</li>
           </ul>
       </v-card-text>
