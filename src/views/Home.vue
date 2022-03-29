@@ -6,15 +6,14 @@
         <p>这里是 Anillc 的个人简介</p>
         <p>
           Anillc 的名字模仿了 Mozilla ，因为看到了 moz://a
-          的图标，于是起了这样一个名字，所以可以这样记住 Anillc 这个名字：an://c
+          的图标，于是起了这样一个名字，所以可以这样记住 Anillc 这个名字: an://c
         </p>
         <ul>
           <li>大一新生</li>
-          <li>NOC of AS142055 and AS4242422526</li>
+          <li>NOC of AS142055</li>
           <li>BG8KYF</li>
-          <li>最喜欢的语言是 kotlin 和 coffeescript</li>
           <li>最喜欢的歌手是鹿乃</li>
-          <li>平时不怎么玩游戏，偶尔打 mc，最近在研究音游</li>
+          <li>平时不怎么玩游戏，偶尔打 mc, 最近在研究音游</li>
         </ul>
       </v-card-text>
     </v-card>
@@ -25,10 +24,6 @@
         <img
           src="https://img.shields.io/badge/Windows-lightblue?style=flat-square&logo=windows"
           alt="Winfows"
-        />
-        <img
-          src="https://img.shields.io/badge/%E8%BF%98%E6%B2%A1%E6%89%BE%E5%88%B0%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%20Android%20%E7%B3%BB%E7%BB%9F-lightblue?style=flat-square&logo=android"
-          alt="Android"
         />
         <img
           src="https://img.shields.io/badge/NixOS-lightblue?style=flat-square&logo=nixos"
@@ -52,15 +47,6 @@
     </v-card>
     <br />
     <v-card>
-      <v-card-title>Networking</v-card-title>
-      <v-card-text>
-        
-        请参考<router-link to="/networking">此页面</router-link><br />
-        Please visit <router-link to="/networking">this page</router-link>
-      </v-card-text>
-    </v-card>
-    <br />
-    <v-card>
       <v-card-title>Links</v-card-title>
       <v-card-text>
         <a href="http://anillc.cn">我的 blog</a> | 
@@ -79,7 +65,7 @@
           width="200"
         ></v-img>
         <br />
-        <p>这是 Anillc 的常用头像w</p>
+        <p>这是 Anillc 的常用头像</p>
         <p>
           链接
           <a
@@ -94,14 +80,6 @@
             >https://gravatar.loli.net/avatar/5df946d48b36e6f8061cdfe7ebcdf75c?s=200</a
           >
         </p>
-      </v-card-text>
-    </v-card>
-    <br />
-    <v-card>
-      <v-card-title>Source</v-card-title>
-      <v-card-text>
-        本站基于 MIT 协议开源<br />
-        repo: <a href="https://github.com/Anillc/ani.llc">Anillc/ani.llc</a>
       </v-card-text>
     </v-card>
   </v-container>

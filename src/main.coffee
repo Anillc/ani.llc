@@ -17,27 +17,19 @@ router = new VueRouter
     path: '/'
     component: Home
     name: 'HOME'
-  },{
-    path: '/skills'
-    component: () -> import('./views/Skills.vue')
-    name: 'SKILLS'
-  },{
+  }, {
     path: '/contact'
     component: () -> import('./views/Contact.vue')
     name: 'CONTACT'
-  },{
+  }, {
     path: '/networking'
     component: () -> import('./views/Networking.vue')
     name: 'NETWORKING'
-  },{
-    path: '/projects'
-    component: () -> import('./views/Projects.vue')
-    name: 'PROJECTS'
-  },{
+  }, {
     path: '/status'
     component: () -> import('./views/Status.vue')
     name: 'STATUS'
-  },{
+  }, {
     path: '/comments'
     component: () -> import('./views/Comments.vue')
     name: 'COMMENTS'

@@ -1,6 +1,6 @@
 <template>
   <v-app class="app">
-    <v-app-bar app prominent shrink-on-scroll color="rgba(255,255,255,0.5)">
+    <v-app-bar app prominent shrink-on-scroll color="rgba(255,255,255,0.5)" style="backdrop-filter: blur(10px);">
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
       <v-app-bar-title><div>Anillc dayo~</div></v-app-bar-title>
       <template v-slot:extension>
@@ -10,7 +10,7 @@
       </template>
     </v-app-bar>
     <v-main>
-      <v-sheet color="rgba(0,0,0,0)" style="opacity: 0.95">
+      <v-sheet color="rgba(0,0,0,0)" style="opacity: 0.95;">
         <router-view></router-view>
       </v-sheet>
     </v-main>

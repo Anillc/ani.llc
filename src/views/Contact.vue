@@ -12,7 +12,6 @@
         <ul>
           <li>邮箱：<a href="mailto:i@anillc.cn">i@anillc.cn</a></li>
           <li>Telegram：<a href="https://t.me/Anillc" target="_blank">@Anillc</a></li>
-          <li>批哩批哩：<a href="https://space.bilibili.com/4708877" target="_blank">@最喜欢我家鹿乃了</a></li>
           <li>QQ 群：663876979</li>
         </ul>
       </v-card-text>
