@@ -22,14 +22,9 @@
       <v-card-title>Platforms</v-card-title>
       <v-card-text>
         <img
-          src="https://img.shields.io/badge/Windows-lightblue?style=flat-square&logo=windows"
-          alt="Winfows"
-        />
-        <img
           src="https://img.shields.io/badge/NixOS-lightblue?style=flat-square&logo=nixos"
           alt="Linux"
         />
-        <br />
         <img
           src="https://img.shields.io/badge/Jetbrains%20yyds-lightblue?style=flat-square&logo=jetbrains"
           alt="Jetbrains"
