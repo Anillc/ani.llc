@@ -9,7 +9,6 @@
           的图标，于是起了这样一个名字，所以可以这样记住 Anillc 这个名字: an://c
         </p>
         <ul>
-          <li>大一新生</li>
           <li>NOC of AS142055</li>
           <li>BG8KYF</li>
           <li>最喜欢的歌手是鹿乃</li>
