@@ -12,7 +12,7 @@
           <li>NOC of AS142055</li>
           <li>BG8KYF</li>
           <li>最喜欢的歌手是鹿乃</li>
-          <li>平时不怎么玩游戏，偶尔打 mc, 最近在研究音游</li>
+          <li>平时不怎么玩游戏</li>
         </ul>
       </v-card-text>
     </v-card>
@@ -23,10 +23,6 @@
         <img
           src="https://img.shields.io/badge/NixOS-lightblue?style=flat-square&logo=nixos"
           alt="Linux"
-        />
-        <img
-          src="https://img.shields.io/badge/Jetbrains%20yyds-lightblue?style=flat-square&logo=jetbrains"
-          alt="Jetbrains"
         />
         <img
           src="https://img.shields.io/badge/Visual%20Studio%20Code-lightblue?style=flat-square&logo=visual-studio-code"
